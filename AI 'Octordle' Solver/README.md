@@ -4,7 +4,7 @@
 
 ## Acknowledgments
 
-This project is developed as part of the CSC 480 course at Cal Poly, under the supervision of Dr. Rodrigo Canaan
+This project is developed as part of the CSC 480 (Introduction To Artifical Intelligence) course at Cal Poly, under the supervision of Dr. Rodrigo Canaan
 
 ## Credits
 
