@@ -3,3 +3,5 @@ For my Knowledge Discovery from Data class (Intro to Machine Learning), I worked
 Our primary objective was to create a more accurate and intuitive classification system for NBA players that reflects their actual contributions on the court. By clustering players into roles rather than positions, we aimed to provide a tool that could be useful for both coaching staff and fans.
 
 Further details are included in the writeup above! 
+
+![Uploading image.png…]()
