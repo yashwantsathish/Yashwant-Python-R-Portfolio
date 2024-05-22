@@ -1,6 +1,6 @@
 # Implementing an AI Agent that Solves "Octordle"
 
-# Team Members -  Akhil Elamanchili, Yashwant Sathish Kumar, Sid Meka, Riley Froomin, Krishan Patel
+## Team Members -  Akhil Elamanchili, Yashwant Sathish Kumar, Sid Meka, Riley Froomin, Krishan Patel
 
 ## Acknowledgments
 
